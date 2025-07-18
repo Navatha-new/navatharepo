@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class Welcome {
     public String welcomehome(){
-        String msg="WELCOME NAVATHA garu!!!!";
+        String msg="WELCOME NAVATHA !!!!";
         return msg;
     }
 }
